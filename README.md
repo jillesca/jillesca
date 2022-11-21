@@ -17,14 +17,17 @@
   </a>
 </p>
 
-🔭 I’m currently working on [my next post of network
+📖 I'm currently learning DevOps to build and connect services for automating networks. It is interesting what you can do when mixing technologies.
+
+🔭 On my personal time I'm working on [my next post of network
 automation](https://github.com/jillesca/network-automation)
 
 👨‍💻 All of my
 projects and contact are available on my personal blog
 [https://netcode.rocks/](https://netcode.rocks/)
 
-<h3 align="left">Languages & Tools I interact with:</h3>
+🛠️ Languages & Tools I interact on my job or personal projects:
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer noopener">
     <img
