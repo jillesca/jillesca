@@ -9,8 +9,6 @@
       src="https://img.shields.io/twitter/follow/vincivero?logo=twitter&style=for-the-badge"
       alt="vincivero"/>
   </a>
-</p>
-<p align="left">
   <a href="hhttps://www.linkedin.com/in/jesusillescas/"
   target="_blank" rel="noreferrer noopener">
   <img
