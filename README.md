@@ -4,22 +4,21 @@
 <h3 align="center">A Network Engineer who likes to build stuff</h3>
 
 <p align="left">
-  <a href="https://twitter.com/vincivero" target="blank"
-    ><img
+  <a href="https://twitter.com/vincivero" target="blank">
+  <img
       src="https://img.shields.io/twitter/follow/vincivero?logo=twitter&style=for-the-badge"
-      alt="vincivero"
-  /></a>
+      alt="vincivero"/>
+  </a>
 </p>
 
 🔭 I’m currently working on [my next post of network
-automation](https://github.com/jillesca/network-automation) 
+automation](https://github.com/jillesca/network-automation)
 
 👨‍💻 All of my
 projects and contact are available on my personal blog
 [https://netcode.rocks/](https://netcode.rocks/)
 
-
-<h3 align="left">Languages and Tools I interact with:</h3>
+<h3 align="left">Languages & Tools I interact with:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
@@ -153,7 +152,7 @@ projects and contact are available on my personal blog
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
